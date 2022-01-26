@@ -4,3 +4,6 @@
 .rafat-w-80 {
   width: 80%;
 }
+.rafat-list > li {
+  border-bottom: 2px solid black;
+}
